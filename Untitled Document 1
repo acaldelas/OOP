@@ -1,0 +1,17 @@
+public class Board{
+	Board player1;
+	Board board;
+	int size;
+	
+	HitBoad(){
+		//Checks if it any hits were made
+	}
+	GiveHint(){
+		//Gives user a hint
+	}
+	CheckValidHit(){
+		// Checks if the user input was valid
+	}
+	
+
+}
